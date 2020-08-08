@@ -4,7 +4,7 @@ body {
 }
 .container {
     width: 100%;
-    height: 130vh;
+    height: 180vh;
         margin: 0 auto;
     max-width: 1400px;
     max-height: 1000px; 
@@ -343,7 +343,7 @@ margin-top: -50px;
 @media (max-width: 1100px) {
       .container {
     width: 100%;
-    height: 120vh;
+    height: 150vh;
     display: grid;
     grid-template-rows: repeat(3,1fr);
     grid-template-columns: repeat(4,1fr);
@@ -570,7 +570,7 @@ margin-top: -50px;
 }
 .container {
     width: 100%;
-    height: 100vh;
+    height: 150vh;
     display: grid;
     grid-template-rows: repeat(3,1fr);
     grid-template-columns: repeat(4,1fr);
@@ -1021,7 +1021,7 @@ justify-content: center;
 @media (max-width: 760px) {
     .container {
     width: 100%;
-    height: 220vh;
+    height: 250vh;
     display: grid;
     grid-template-rows: repeat(3,1fr);
     grid-template-columns: repeat(4,1fr);
@@ -1106,7 +1106,7 @@ justify-content: center;
 @media (max-width: 740px) {
 .container {
     width: 100%;
-    height: 220vh;
+    height: 250vh;
     display: grid;
     grid-template-rows: repeat(3,1fr);
     grid-template-columns: repeat(4,1fr);
@@ -1187,7 +1187,7 @@ justify-content: center;
 @media (max-width: 720px) {
     .container {
     width: 100%;
-    height: 220vh;
+    height: 250vh;
     display: grid;
     grid-template-rows: repeat(3,1fr);
     grid-template-columns: repeat(4,1fr);
@@ -1272,7 +1272,7 @@ justify-content: center;
 @media (max-width: 700px) {
     .container {
     width: 100%;
-    height: 220vh;
+    height: 250vh;
     display: grid;
     grid-template-rows: repeat(3,1fr);
     grid-template-columns: repeat(4,1fr);
@@ -1364,7 +1364,7 @@ justify-content: center;
 @media (max-width: 680px) {
     .container {
     width: 100%;
-    height: 220vh;
+    height: 250vh;
     display: grid;
     grid-template-rows: repeat(3,1fr);
     grid-template-columns: repeat(4,1fr);
@@ -1456,7 +1456,7 @@ justify-content: center;
 @media (max-width: 660px) {
     .container {
     width: 100%;
-    height: 220vh;
+    height: 250vh;
     display: grid;
     grid-template-rows: repeat(3,1fr);
     grid-template-columns: repeat(4,1fr);
@@ -1548,7 +1548,7 @@ justify-content: center;
 @media (max-width: 640px) {
     .container {
     width: 100%;
-    height: 220vh;
+    height: 250vh;
     display: grid;
     grid-template-rows: repeat(3,1fr);
     grid-template-columns: repeat(4,1fr);
@@ -1644,7 +1644,7 @@ justify-content: center;
 @media (max-width: 620px) {
     .container {
     width: 100%;
-    height: 220vh;
+    height: 250vh;
     display: grid;
     grid-template-rows: repeat(3,1fr);
     grid-template-columns: repeat(4,1fr);
@@ -1831,7 +1831,7 @@ justify-content: center;
 @media (max-width: 600px) {
     .container {
     width: 100%;
-    height: 140vh;
+    height: 170vh;
     display: grid;
     grid-template-rows: repeat(5,1fr);
     grid-template-columns: repeat(3,1fr);
@@ -2290,6 +2290,7 @@ width: 80%;
 }   
 
 @media (max-width: 375px) {
+
     .mynav {
     width:350px;
     height: 100%;
